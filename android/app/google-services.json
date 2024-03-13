@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740451262509",
+    "project_id": "soutenance-projet",
+    "storage_bucket": "soutenance-projet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740451262509:android:325600de942893245498a4",
+        "android_client_info": {
+          "package_name": "com.example.soutenance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_2VDvf22WZ3rVIl4IWalnrnJSsqxt6ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
